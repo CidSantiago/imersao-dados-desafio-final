@@ -14,7 +14,7 @@ Nesse projeto, estão sendo utilizados dados fornecidos em uma competição no [
 ## O Objetivo
 ---
 
-Após a aula 04 da imersão de dados, me surgiu o questionamento se seria possível predizer a ação dos Mecanismos de ação através da alteração nos genes e nos grupos celulares entre os 3 principais (Inibidores, Antagonista e agonista). Por isso, essa será o foco do meu trabalho final! Tentar prever essa ação 😊
+Após a aula 04 da imersão de dados, me surgiu o questionamento se seria possível predizer a ação dos Mecanismos de ação através da alteração nos genes e nos grupos celulares. Por isso, essa será o foco do meu trabalho final! Tentar prever essa ação 😊
 
 ## Como será feito
 ---
