@@ -26,16 +26,16 @@ Para obter isso, primeiro de tudo será feito uma analise exploratória e contex
 
 Após aplicação dos modelos foram obtidos os seguintes resultados de acurácia:
 
-*MultiLayer Perceptrons - MLP* (Rede neural) -> 87,2 %
+*MultiLayer Perceptrons - MLP* (Rede neural) -> 41,4 %
 
 *Auto-ML* (Auto-sklearn)                     -> 39.0 %
 
-*XGBoost*                                    -> 49.6 % 
+*XGBoost*                                    -> 49.5 % 
 
 ## Conclusões
 ---
 
-Através de melhores estudos e aperfeiçoamento dos parametros, é possível encontrar modelos mais precisos do que os determinados acima. Contudo, essa rápida exploração dos modelos de aprendizado de máquina, mostrou que redes neurais talvez sejam o melhor caminho para a solução desse problema.
+Através de melhores estudos e aperfeiçoamento dos parametros, é possível encontrar modelos mais precisos do que os determinados acima. Contudo, essa rápida exploração dos modelos de aprendizado de máquina, mostrou que XGBoost talvez sejam o melhor caminho para a solução desse problema.
 
 
 [Colab do Notebook](https://drive.google.com/file/d/1UCy_yNMwiuAapbH_XPlc2Xi3x7SRPu7o/view?usp=sharing)
