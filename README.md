@@ -27,7 +27,9 @@ Para obter isso, primeiro de tudo será feito uma analise exploratória e contex
 Após aplicação dos modelos foram obtidos os seguintes resultados de acurácia:
 
 *MultiLayer Perceptrons - MLP* (Rede neural) -> 87,2 %
+
 *Auto-ML* (Auto-sklearn)                     -> 39.0 %
+
 *XGBoost*                                    -> 49.6 % 
 
 ## Conclusões
