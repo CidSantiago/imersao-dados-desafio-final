@@ -14,12 +14,12 @@ Nesse projeto, estão sendo utilizados dados fornecidos em uma competição no [
 ## O Objetivo
 ---
 
-Após a aula 04 da imersão de dados, me surgiu o questionamento se seria possível predizer a ação dos Mecanismos de ação através da alteração nos genes e nos grupos celulares entre os 3 principais (Inibidores, Antagonista e agonista). Por isso, essa será o foco do meu trabalho final! Tentar prever essa ação 😊
+Após a aula 04 da imersão de dados, me surgiu o questionamento se seria possível predizer a ação dos Mecanismos de ação através da alteração nos genes e nos grupos celulares. Por isso, essa será o foco do meu trabalho final! Tentar prever essa ação 😊
 
 ## Como será feito
 ---
 
-Para obter isso, primeiro de tudo será feito uma analise exploratória e contextualização dos dados. Feito isso, serão feitas algumas transformações, com o objetivo de deixar nossos dados melhores aptos para os nossos modelos de machine learning propriamente dito. O problema foi descrito de forma que se encaixa em problemas de classificação, portanto, serão tentadas 3 abordagens: *Linear Suport Vector Classification* - Linear SVC usando Scikit-learn, AutoML (Auto-sklearn) e *Gradient boosted trees* (XGBoost). Justificando as escolhas: Linear SVC é uma abordagem bastante comum em problemas de classificação, então parece um bom ponto inicial. Já AutoML em geral, é uma área bastante em alta devido a sua simplicidade e facilitação do trabalho dos Cientista de dados em geral. Por fim, o XGBoost é um dos modelos que mais aparecem nas melhores soluções de competições de problemas de classificação em geral, sendo, no meu caso pelo menos, o primeiro modelo a ser testado.
+Para obter isso, primeiro de tudo será feito uma analise exploratória e contextualização dos dados. Feito isso, serão feitas algumas transformações, com o objetivo de deixar nossos dados melhores aptos para os nossos modelos de machine learning propriamente dito. O problema foi descrito de forma que se encaixa em problemas de classificação, portanto, serão tentadas 3 abordagens: *MultiLayer Perceptron* - MLP usando Scikit-learn, AutoML (Auto-sklearn) e *Gradient boosted trees* (XGBoost). Justificando as escolhas: redes neurais em geral é uma abordagem bastante comum em problemas de classificação multilabel, então parece um bom ponto inicial. Já AutoML em geral, é uma área bastante em alta devido a sua simplicidade e facilitação do trabalho dos Cientista de dados em geral. Por fim, o XGBoost é um dos modelos que mais aparecem nas melhores soluções de competições de problemas de classificação em geral, sendo, no meu caso pelo menos, o primeiro modelo a ser testado.
 
 ## Resultados
 ---
